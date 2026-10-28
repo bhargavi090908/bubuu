@@ -44,12 +44,12 @@ const memories = [
   {
     emoji: "😂🎶",
     title: "Your little pichidi",
-    text: "Nenu konchem ekkuva maatladatha, ballari chestha, funny ga undadaniki try chestha, random reels pampistha, dances vesi songs paadatha! Sometimes nake nenu boring person la anipistha, but nee mundhu naa silly self tho undagalagadam naaku special."
+    text: "Sometimes nake nenu boring person la anipistha, but you always choose me thankuuuuu chooomuch kuchupuchu."
   },
   {
     emoji: "🌟💗",
     title: "My handsome boy",
-    text: "Neeku em cheyyali anipisthe, nee dreams kosam work cheyyi. I genuinely want to see you succeed. Believe in yourself, darling. I'll always cheer for you and support you."
+    text: "Neeku em cheyyali anipisthe. I genuinely want to see you succeed. Believe in yourself, darling. I'll always cheer for you and support you."
   }
 ];
 
@@ -107,25 +107,13 @@ const loveSteps = [
   {
     title: "My Bubu 🧸💗",
     text: "I'm genuinely so lucky to have you in my life. Enni ups and downs vachina, malli manam 'WE ARE US' avvadam naaku chala special. I'm happy that I have you, my handsome boy. 🥹❤️"
-  },
-  {
-    title: "The way you changed 🫶🏻",
-    text: "Naa kosam nee kopam tagginchukovadaniki nuvvu chesina efforts nenu notice chesanu, Bubu. Nobody is perfect, but trying to understand each other and grow together is what matters to me. Thank you for trying. 💗"
-  },
-  {
-    title: "Your little pichidi 😂💕",
-    text: "Nenu konchem ekkuva maatladatha, ballari chestha, funny ga undadaniki try chestha, random reels pampistha, dances vesi songs paadatha! 😭😂 Sometimes nake nenu boring person la anipistha, but nee mundhu naa silly self tho undagalagadam naaku chala special. I hope naa pichithanam tho nee face lo smile theppisthu undagalanu. 🥹💗"
-  },
-  {
-    title: "My handsome boy 🌟",
-    text: "Bubu, neeku em cheyyali anipisthe, nee dreams kosam work cheyyi. I genuinely want to see you succeed and achieve everything you dream of. Believe in yourself, darling. I'll always cheer for you and support you. ❤️"
-  },
+  }
   {
     title: "Let's grow together 💌",
     text: "Life eppudu easy ga undadhu, but let's keep learning, understanding, and supporting each other. Manam problems tho fight cheddam, okaritho okaram kaadhu. Let's work hard and build a future that makes us both proud. 🫶🏻"
   },
   {
-    title: "Always my Bubu 🧿",
+    title: "Always my Bubu"
     text: "Nuvvu naaku dorakadam oka special feeling ra. Mana silly talks, reels, songs, laughs, and little memories anni naaku precious. I'm so lucky to have you, my handsome boy. I believe in you, and I'm rooting for us. Love you, Bubu. 💗"
   }
 ];
