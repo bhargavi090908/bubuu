@@ -50,7 +50,7 @@ const memories = [
     emoji: "🌟💗",
     title: "My handsome boy",
     text: "Neeku em cheyyali anipisthe. I genuinely want to see you succeed. Believe in yourself, darling. I'll always cheer for you and support you."
-  }
+  },
 ];
 
 let memoryIndex = 0;
